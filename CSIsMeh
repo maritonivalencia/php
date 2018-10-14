@@ -1,0 +1,7 @@
+public class CSIsMeh {
+  System.out.println ("Why am I taking CS again?"); 
+  int age = 18;
+  String name = toni; 
+  
+  System.out.println ("Probs the weirdest decision I have ever made"); 
+}
